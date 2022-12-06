@@ -1,5 +1,5 @@
 {
-	"auther": "Lwazi Nene",
+	"author": "Lwazi Nene",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
